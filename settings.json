@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "ServerOnline24-7",
+    "username": "bot-username",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "BroHaiLaSkin.aternos.me",
-    "port": 37739,
-    "version": "1.18.2"
+    "ip": "server-ip",
+    "port": ,
+    "version": "server-version"
   },
 
   "position": {
@@ -35,10 +35,10 @@
       "repeat-delay": 1300,
 
       "messages": [
-        "Server IP: BroHaiLaSkin.aternos.me",
-        "Server port: 37739",
-        "Server version: 1.18.2",
-        "Dont kick me, Im here for host the server"
+        "Your messages here",
+        "Your messages here",
+        "Your messages here",
+        "Your messages here"
       ]
     },
 
