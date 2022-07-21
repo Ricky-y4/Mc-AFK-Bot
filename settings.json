@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "ServerOnline24-7",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "BroHaiLaSkin.aternos.me",
+    "port": 37739,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 1300,
+
+      "messages": [
+        "Server IP: BroHaiLaSkin.aternos.me",
+        "Server port: 37739",
+        "Server version: 1.18.2",
+        "Dont kick me, Im here for host the server"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
