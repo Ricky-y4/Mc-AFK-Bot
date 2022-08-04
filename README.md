@@ -8,16 +8,11 @@
     Anti-AFK, Auto-Auth, Microsoft/Mojang accounts support.
 </p>
 
-## Installation
-
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
- 2. Download & install [Node.JS](https://nodejs.org/en/download/)
- 3. Run `npm install` command in bot directory.
- 
- ## Usage
- 
- 1. Configure bot in `settings.json` file. [Configuration Reference](https://github.com/urFate/Afk-Bot/wiki/Configuring-bot-(settings.json))
- 2. Start bot with `node .` command.
+## Installation & Requirements
+ 1. Install NodeJS
+ 2. Fill parameters in `settings.json`
+ 3. Run `npm install` command in bot directory
+ 4. Run `node .` to start the bot
 
 ## Features
 
@@ -29,6 +24,6 @@
  - Auto reconnect
  - Supported server versions: `1.8 - 1.18.2`
  
- ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
+ ## Credits
+ [Credits to urFate](https://github.com/urFate/)
 
